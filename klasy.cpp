@@ -4,6 +4,8 @@
 Astronaut::Astronaut() {
 	x = 25;
 	y = 0;
+	level = 1;
+	score = 0;
 
 
 }
