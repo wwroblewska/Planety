@@ -1,0 +1,24 @@
+Oferta 1
+linjka opisu 1
+linjka opisu 2
+linjka opisu 3
+linjka opisu 4
+slowo1 slowo2 slowo 3
+1.24
+#
+Oferta 2
+adad adad ada
+awdawd  awdadawd
+adadawdawd
+awdawd aawdadawdad awd
+awawd slowo1 awd awd
+1.43
+#
+Oferta 3
+adad adad ada
+awdawd  awdadawd
+adadawdawd
+awdawd aawdadawdad awd
+awawd awd awd awd
+2.34
+#
