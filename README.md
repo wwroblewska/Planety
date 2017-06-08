@@ -16,5 +16,5 @@ Dodanie innych klas, metod, przetestowanie w funkcji main
 ### 10.06.17 - 16.06.17:
 Uzupełnienie, poprawki błędów
 ### 17.06.17 - 23.06.17
-Stworzenie dokumentacji, oddanie projektu
+Stworzenie dokumentacji, oddanie projektu do oceny
 
