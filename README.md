@@ -1,7 +1,7 @@
 # **Projekt zaliczeniowy**
 
 ## **Opis projektu**
-Program obsługi biura podróży w kosmosie. Użytkownikowi zostanie zaprezentowane kilka ofert wczytywanych z pliku, do których będzie miał dostęp po przejściu przez pytania (menu), czyli np. po wpisaniu słów kluczowych lub zakresu cen program wyświetli oferty w zakresie poszukiwania. Użytkownik będzie miał możliwość oceny miejsca pobytu, zmiany celu podróży. 
+Program obsługi biura podróży w kosmosie. Użytkownikowi zostanie zaprezentowane kilka ofert wczytywanych z pliku, do których będzie miał dostęp po przejściu przez pytania (menu), czyli np. po wpisaniu słów kluczowych lub zakresu cen program wyświetli oferty w zakresie poszukiwania. Użytkownik będzie miał możliwość wybrania oferty oraz oceny miejsca pobytu.
 
 (W miarę postępu pracy pewne rzeczy mogą ulec zmianie)
 
