@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include <iostream>
 #include <fstream>
 #include "Offer.h"
@@ -6,9 +7,9 @@
 int main() {
 
 
-    TravelAgency travelAgency;
+	TravelAgency travelAgency;
 
-    travelAgency.menu();
+	travelAgency.menu();
 
-    return 0;
+	system("pause");
 }
