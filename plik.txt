@@ -1,24 +1,56 @@
-Oferta 1
-linjka opisu 1
-linjka opisu 2
-linjka opisu 3
-linjka opisu 4
-slowo1 slowo2 slowo 3
-1.24
+Merkury
+slowo dsscs
+slowo1
+sjjdhd
+slowo1 dsscs
+5.27
 #
-Oferta 2
-adad adad ada
-awdawd  awdadawd
-adadawdawd
-awdawd aawdadawdad awd
-awawd slowo1 awd awd
-1.43
+Wenus
+slowo dsscs
+addd ada
+sjjdhd
+slowo1 dsscs
+1.30
 #
-Oferta 3
-adad adad ada
-awdawd  awdadawd
-adadawdawd
-awdawd aawdadawdad awd
-awawd awd awd awd
-2.34
+Ziemia
+slowo dsscs
+slowo1 slowo 2
+sjjdhd wkyhvwe
+slowo1 dsscs
+4.50
+#
+Mars
+hbf
+shrr
+fff
+fff hbf
+6.10
+#
+Uran
+lala
+lalalalala
+jo
+jo lala git
+1.98
+#
+Neptun
+neppptttt
+jgsuhgo
+agfseghjhjj
+neptunek ok
+60.43
+#
+Saturn
+pierscienie slizgaj sie
+super bedzie
+goraco
+slizgawka upal zabawa
+39.60
+#
+Pluton
+urocza karlowata planeta
+muzeum wszystkiego
+male ale piekne
+kultura widoki pieknie
+29.72
 #
