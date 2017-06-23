@@ -1,56 +1,60 @@
 Merkury
-slowo dsscs
-slowo1
-sjjdhd
-slowo1 dsscs
-5.27
+Najblizsza sloncu, najgoretszy cel podrozy!
+Tylko dla smialkow, to moga byc niezapomniane wakacje.
+Jesli nie przeszkadza Ci wylegiwanie się na Słoncu całymi dniami, oferta idealna.
+upal ekstremalnie slonce plaza leniuchowanie
+1500.00
 #
 Wenus
-slowo dsscs
-addd ada
-sjjdhd
-slowo1 dsscs
-1.30
+Drugi po Merkurym goracy teren z przepieknymi widokami. 
+Lodowe jaskinie i chlodne napoje, fantastyczne potrawy.
+Ochladzane muzeum sztuki starozytnej.
+upal relaks widoki sztuka
+1200.00
 #
 Ziemia
-slowo dsscs
-slowo1 slowo 2
-sjjdhd wkyhvwe
-slowo1 dsscs
-4.50
+Idealne miejsce na rodzinne wakacje. Zabierz swoją
+rodzine i odkryjcie najbardziej roznorodna planete Ukladu.
+Lasy, oceany, morza, pelna historii kraina!
+rodzina relaks kultura 
+550.50
 #
 Mars
-hbf
-shrr
-fff
-fff hbf
-6.10
+Powierzchnia pokryta licznymi wulkanami, dolinami, pustyniami i polarnych
+czap lodowych. Suche powietrze, do ktorego mozesz sie przekonac tylko jesli
+wybierzesz te oferte. Poznaj planete, ktora jako druga w historii zostala osiedlona
+przez zyjace istoty!
+kultura pustynia wulkany skaly historia
+2000.00
 #
-Uran
-lala
-lalalalala
-jo
-jo lala git
-1.98
-#
-Neptun
-neppptttt
-jgsuhgo
-agfseghjhjj
-neptunek ok
-60.43
+Jowisz
+Najwieksza planeta, gazowy olbrzym. Poloz się i obserwuj ciekawie 
+zachmurzone niebo z 69 ksiezycami. Tajemniczy nastroj sprzyja odpoczynkowi.
+relaks widoki gaz
+700.00
 #
 Saturn
-pierscienie slizgaj sie
-super bedzie
-goraco
-slizgawka upal zabawa
-39.60
+Jesli nie interesuje cie nuda, idealnie trafiles. Saturn jest w posiadaniu najwiekszego 
+w Ukladzie parku rozrywki, z niesamowitym rollercoasterem na Jego pierscieniach!
+Sam mozesz wybrac szybkosc przejazdzki - sprzyjajaca podziwianiu planety lub 
+niezapomnianej zabawie. 
+rozrywka widoki 
+2500.00
 #
-Pluton
-urocza karlowata planeta
-muzeum wszystkiego
-male ale piekne
-kultura widoki pieknie
-29.72
+Uran
+Przepiekny blekit planety przyciaga co roku mase turystow. Zanurz się w 
+oblokach i zapomnij o problemach! W powietrzu unosi się artystyczna aura, 
+przyjedz by uzyskac inspiracje do Twojego najbliższego projektu - czy to ksiazka, czy film,
+pomysly na najwieksze dziela w historii narodzily sie wlasnie tutaj. Na terenie planety
+muzeum z oryginalnymi utworami artystow.
+muzeum kultura inspiracja odpoczynek sztuka
+400.00
+#
+Neptun
+Nazwany po bogu morz, ale nie ma nic wspolnego z woda, poza glebokim kolorem 
+powierzchni. Najdalej połozony od Slonca, idealny cel podrozy dla wielbicieli 
+sportow zimowych, liczne stoki narciarskie, najwyzsze gory, bezpieczne lodowiska
+(rowniez te mniej) i przyjazni tubylcy!
+zima sport gory narty
+2700.00
 #
